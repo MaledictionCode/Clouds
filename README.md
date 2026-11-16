@@ -8,7 +8,7 @@ Clouds is an independent automation project focused on pixel recognition and gam
 
 ## Overview
 
-Clouds is being developed with an emphasis on simplicity, efficiency, and reliability. The project aims to provide an accessible macro experience without relying on external game modifications.
+Clouds is being developed for accessible macro experience without relying on external game modifications.
 
 ## Current Status
 

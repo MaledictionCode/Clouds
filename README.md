@@ -1,28 +1,31 @@
 # Clouds
 
-**A non-external pixel-reading macro for Fisch.**
+**A non-external, pixel-reading macro for Fisch.**
 
-<sub>Currently in development</sub>
+Clouds is an independent automation project focused on pixel recognition and gameplay automation.
+
+> **Development Status:** Work in Progress
+
+## Overview
+
+Clouds is being developed with an emphasis on simplicity, efficiency, and reliability. The project aims to provide an accessible macro experience without relying on external game modifications.
+
+## Current Status
+
+The project is actively under development.
+No stable release is currently available.
+
+## Planned
+
+- Pixel-based recognition
+- Automated rod minigames
+- Rejoin feature
+- Configurable settings
+
+## Licensing
+
+Clouds is intended to be free for personal use.
+
+The software will remain proprietary. Modification, redistribution, and commercial use are not permitted without explicit permission from the author.
 
 ---
-
-### Project Status
-Clouds is currently a work in progress. Features, functionality, and optimizations are actively being developed.
-
-### About
-Clouds is designed to provide automated gameplay assistance through pixel recognition, without relying on external game modifications or injected scripts.
-
-### Development
-This project is not yet ready for public release. Features and documentation may change throughout development.
-
-### Usage & Permissions
-- Free for personal use once released.
-- Redistribution is prohibited.
-- Modification and republishing are not permitted.
-- Commercial use is prohibited.
-
----
-
-**Clouds** · Developed by Azepheon
-
-*More information will be available upon release.*
